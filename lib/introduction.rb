@@ -1,4 +1,4 @@
 # lib/introduction.rb 
 
 def introduction (Amanda)
-puts
+puts "Hi my name is "
